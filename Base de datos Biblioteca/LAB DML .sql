@@ -387,7 +387,7 @@ INSERT INTO lectores (idLector, nombreLector, apellidoLector, duiLector, telefon
 	(2, 'Laura Camila', 'Castro Escobar', '04529895-2', '6872-4526', 8),
 	(3, 'Jose Maria', 'Ram�rez Tovar', '07823695-7', '5532-8926', 9),
 	(4, 'Gabriel Antonio', 'Garc�a Beltr�n', '04783695-1', '7532-6526', 10),
-	(5, 'Garc�a Beltr�n', 'Romero Jim�nez', '06523695-5', '7532-9826', 11);
+	(5, 'Garc�a Beltr�n', 'Romero Jim�nez', '06523695-5', '7532-9826', 6);
 GO
 
 
